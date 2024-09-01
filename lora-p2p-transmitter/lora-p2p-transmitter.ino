@@ -8,8 +8,8 @@
 
 //define the pins used by the transceiver module
 #define NUON_V1_NSS 16
-#define NUON_V2_RST 13
-#define NUON_V2_DIO0 17
+#define NUON_V1_RST 13
+#define NUON_V1_DIO0 17
 
 int counter = 0;
 
